@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![image](https://github.com/Eurus-Holmes/Eurus-Holmes/blob/master/dino.gif)
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 <!--
 **ra-MANUJ-an/ra-MANUJ-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
