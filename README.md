@@ -2,7 +2,10 @@
 
 ![image](https://github.com/Eurus-Holmes/Eurus-Holmes/blob/master/dino.gif)
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+<p align="center"> 
+  Visitors (From 11/04/2021):<br>
+  <img src="https://profile-counter.glitch.me/Eurus-Holmes/count.svg" />
+</p>
 
 <!--
 **ra-MANUJ-an/ra-MANUJ-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
