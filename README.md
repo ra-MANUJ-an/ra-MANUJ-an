@@ -4,7 +4,7 @@
 
 <p align="center"> 
   Visitors (From 11/04/2021):<br>
-  <img src="https://profile-counter.glitch.me/Eurus-Holmes/count.svg" />
+  <img src="https://profile-counter.glitch.me/ra-MANUJ-an/count.svg" />
 </p>
 
 <!--
