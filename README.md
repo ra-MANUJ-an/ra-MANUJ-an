@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://github.com/Eurus-Holmes/Eurus-Holmes/blob/master/dino.gif)
+![image](https://github.com/ra-MANUJ-an/ra-MANUJ-an/blob/main/dino.gif)
 
 <p align="center"> 
   Visitors (From 11/04/2021):<br>
